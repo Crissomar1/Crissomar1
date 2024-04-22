@@ -2,17 +2,16 @@
 <h3>Hi there 👋 I am Cristian Morales
 <script>
     // Your JavaScript code here
+    const { createCanvas, loadImage } = require('canvas'); // Add the import statement for the 'canvas' module
+
     function cutImageToCenter(imageUrl, width, height) {
-        const canvas = document.createElement('canvas');
+        const canvas = createCanvas(width, height); // Use 'createCanvas' instead of 'document.createElement('canvas')'
         const context = canvas.getContext('2d');
         const image = new Image();
 
         image.onload = function() {
             const x = (image.width - width) / 2;
             const y = (image.height - height) / 2;
-
-            canvas.width = width;
-            canvas.height = height;
 
             context.drawImage(image, x, y, width, height, 0, 0, width, height);
 
