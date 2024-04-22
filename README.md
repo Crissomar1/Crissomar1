@@ -1,19 +1,18 @@
-<div style="background-image: url('https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp');">
-    <div align="center">
-        <h3>Hi there 👋 I am Cristian Morales</h3>
-    </div>
 
-<p>I'm a final year Computer Engineering student at the University of Guadalajara, specializing in Artificial Intelligence. I'm passionate about coding, problem-solving, and learning new technologies.</p>
+<h3>Hi there 👋 I am Cristian Morales
+<img src="https://media4.giphy.com/media/XfVclHLZm4hLWqNgBm/giphy.webp" alt="Image" width="50" height="50">
+</h3>
 
-<h2>📚 Education</h2>
-<ul>
-    <li><strong>Computer Engineering</strong>, University of Guadalajara (UdeG), Expected graduation: 2024</li>
-    <li><strong>Academic Exchange Program</strong>, Autonomous University of Nuevo León (UANL), 2023</li>
-</ul>
-<div>
+<p>I'm a final year Computer Engineering student at <a href="https://www.udg.mx/"> University of Guadalajara</a>, specializing in Artificial Intelligence. I'm passionate about coding, problem-solving, and learning new technologies.</p>
+<img align='right' src="https://media0.giphy.com/media/zsBYk9lu9aZhj5nwkN/giphy.webp" alt="Image" width="250" height="250">
+
+## 📚 Education
+- **Computer Engineering**, <a href="https://www.udg.mx/"> University of Guadalajara</a> (UdeG), Expected graduation: 2024
+- **Academic Exchange Program**, <a href="https://uanl.mx/"> Autonomous University of Nuevo León</a> (UANL), 2023
 
 ## 💼 Work Experience
 - **Bilingual Agent**, BELIVEO (XFINITY), Mexico
+- **Field IT**, SERVINEXT (ALEN), Mexico
 
 ## 🔭 Projects
 I've worked on various projects using different programming languages like C++, Python, HTML, GDScript, TypeScript, and JavaScript. My repositories include a C compiler, a data mining project, and web developments with NextJS and Astro.
@@ -29,6 +28,11 @@ I'm currently focusing on Artificial Intelligence, including machine learning, n
 
 ## 🔗 Links
 [Insert Relevant Links Here]
+
+## 🛠️ Skills 
+- **Languages**: Python  
+[![Python][https://img.shields.io/badge/Python_3-306998?style=for-the-badge&logo=python&logoColor=white]] 
+ C++, HTML, CSS, JavaScript, TypeScript, GDScript
 
 Python is my preferred language and I'm always excited to learn more and work on new projects. Feel free to reach out to me if you have any opportunities or collaborations!
 <!--
