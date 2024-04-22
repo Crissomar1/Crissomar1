@@ -3,11 +3,13 @@
         <h3>Hi there 👋 I am Cristian Morales</h3>
     </div>
 
-I'm a final year Computer Engineering student at the University of Guadalajara, specializing in Artificial Intelligence. I'm passionate about coding, problem-solving, and learning new technologies.
+<p>I'm a final year Computer Engineering student at the University of Guadalajara, specializing in Artificial Intelligence. I'm passionate about coding, problem-solving, and learning new technologies.</p>
 
-## 📚 Education
-- **Computer Engineering**, University of Guadalajara (UdeG), Expected graduation: 2024
-- **Academic Exchange Program**, Autonomous University of Nuevo León (UANL), 2023
+<h2>📚 Education</h2>
+<ul>
+    <li><strong>Computer Engineering</strong>, University of Guadalajara (UdeG), Expected graduation: 2024</li>
+    <li><strong>Academic Exchange Program</strong>, Autonomous University of Nuevo León (UANL), 2023</li>
+</ul>
 <div>
 
 ## 💼 Work Experience
