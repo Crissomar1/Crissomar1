@@ -1,32 +1,7 @@
 
-<h3>Hi there 👋 I am Cristian Morales
-<script>
-    // Your JavaScript code here
-    const { createCanvas, loadImage } = require('canvas'); // Add the import statement for the 'canvas' module
-
-    function cutImageToCenter(imageUrl, width, height) {
-        const canvas = createCanvas(width, height); // Use 'createCanvas' instead of 'document.createElement('canvas')'
-        const context = canvas.getContext('2d');
-        const image = new Image();
-
-        image.onload = function() {
-            const x = (image.width - width) / 2;
-            const y = (image.height - height) / 2;
-
-            context.drawImage(image, x, y, width, height, 0, 0, width, height);
-
-            const dataUrl = canvas.toDataURL();
-            const imgElement = document.createElement('img');
-            imgElement.src = dataUrl;
-
-            document.body.appendChild(imgElement);
-        };
-
-        image.src = imageUrl;
-    }
-    cutImageToCenter('https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp', 50, 50);
-</script>
-<img src="https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp" sharp="center,50,50">
+<h3 style="text-align: center;">Hi there 👋 I am Cristian Morales</h3>
+<div style="background-image: url('https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp'); background-repeat: no-repeat; background-size: cover; display: flex; justify-content: center; align-items: center; height: 300px;">
+</div>
 use this code to center the image
 
 </h3>
