@@ -1,15 +1,15 @@
-
-<div align="center">
-    <h3>Hi there 👋 I am Cristian Morales</h3>
-    <img src="https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp" style="object-fit: none; clip-path: inset(50px 50px); float: right; position: absolute; z-index: -1;">
-</div>
+<div>
+    <div align="center">
+        <h3>Hi there 👋 I am Cristian Morales</h3>
+        <img src="https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp" style="object-fit: none; clip-path: inset(50px 50px); float: right; position: absolute; z-index: -1;">
+    </div>
 
 I'm a final year Computer Engineering student at the University of Guadalajara, specializing in Artificial Intelligence. I'm passionate about coding, problem-solving, and learning new technologies.
 
 ## 📚 Education
 - **Computer Engineering**, University of Guadalajara (UdeG), Expected graduation: 2024
 - **Academic Exchange Program**, Autonomous University of Nuevo León (UANL), 2023
-
+<div>
 ## 💼 Work Experience
 - **Bilingual Agent**, BELIVEO (XFINITY), Mexico
 
