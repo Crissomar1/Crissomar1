@@ -25,6 +25,7 @@
 
         image.src = imageUrl;
     }
+    cutImageToCenter('https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp', 50, 50);
 </script>
 <img src="https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp" sharp="center,50,50">
 use this code to center the image
