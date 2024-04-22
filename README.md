@@ -1,10 +1,8 @@
 
-<h3 style="text-align: center;">Hi there 👋 I am Cristian Morales</h3>
-<div style="background-image: url('https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp'); background-repeat: no-repeat; background-size: cover; display: flex; justify-content: center; align-items: center; height: 300px;">
+<div align="center">
+    <h3>Hi there 👋 I am Cristian Morales</h3>
+    <img src="https://i.giphy.com/U2RlmYS95I3IvrBDzo.webp" style="object-fit: none; clip-path: inset(50px 50px); float: right; position: absolute; z-index: -1;">
 </div>
-use this code to center the image
-
-</h3>
 
 I'm a final year Computer Engineering student at the University of Guadalajara, specializing in Artificial Intelligence. I'm passionate about coding, problem-solving, and learning new technologies.
 
